@@ -1,7 +1,7 @@
 ### Utilities
 
 #### Editor, process viewers
-    apt-get install vim htop 
+    apt-get install vim htop ntp
 
 #### Compilers / common libraries
     apt-get install gcc g++ make
@@ -12,7 +12,7 @@
 
 ### LAMP
 
-    apt-get install php5 apache2 php5-intl php5-mysql php-pear php5-mcrypt php5-dev php-apc mysql-server 
+    apt-get install php5 apache2 php5-intl php5-mysql php-pear php5-mcrypt php5-dev php-apc mysql-server php5-memcache php5-cli php5-curl php5-gd 
 
 
 

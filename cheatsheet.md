@@ -12,7 +12,7 @@
 
 ### LAMP
 
-    apt-get install php5
+    apt-get install php5 apache2 php5-intl php5-mysql php-pear php5-mcrypt php5-dev php-apc mysql-server 
 
 
 

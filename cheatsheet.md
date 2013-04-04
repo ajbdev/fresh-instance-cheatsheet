@@ -4,7 +4,7 @@
     apt-get install vim htop ntp
 
 #### Compilers / common libraries
-    apt-get install gcc g++ make
+    apt-get install gcc g++ make libpcre3
 
 ### LNMP
 

@@ -4,8 +4,6 @@ set showmatch
 set statusline=[%02n]\ %f\ %(\[%M%R%H]%)%=\ %4l,%02c%2V\ %P%*
 set laststatus=2
 set ignorecase
-set list
-set listchars=tab:>.
 set selectmode=mouse
 set autoindent
 set expandtab

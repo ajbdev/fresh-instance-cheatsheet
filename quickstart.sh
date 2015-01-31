@@ -7,4 +7,4 @@ sudo apt-get -y install git
 wget https://raw.github.com/ajbdev/fresh-instance-cheatsheet/master/.vimrc
 mv .vimrc ~
 curl -sS https://getcomposer.org/installer | php
-mv composer.phar /usr/local/bin/composer
+sudo mv composer.phar /usr/local/bin/composer
